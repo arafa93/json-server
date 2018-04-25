@@ -1,0 +1,75 @@
+{
+	"resturants": [{
+			"id": 1,
+			"name": "Paradise",
+			"img": "https://i1.sndcdn.com/artworks-000131674761-yo8esz-t500x500.jpg",
+			"location": "171 E Broadway, New York, NY 10002",
+			"rate": 4,
+			"category": {
+				"meat":{
+				  "shawerma":{"rate":5,"Price":30}, 
+				  "sogo":{"rate":5,"Price":30}, 
+				  "burger":{"rate":5,"Price":30}},
+				  
+				"sandwiches":{
+				  "potatos":{"rate":5,"Price":30}, 
+				  "crep":{"rate":5,"Price":30}},
+				  
+				"fish":{
+				  "polty":{"rate":5,"Price":30}, 
+				  "singary":{"rate":5,"Price":30}},
+				  
+				"Pastries":{
+				  "pizza":{"rate":5,"Price":30}}
+			}
+		},
+		{
+			"id": 2,
+			"name": "star",
+			"img": "https://i1.sndcdn.com/artworks-000131674761-yo8esz-t500x500.jpg",
+			"location": "171 E Broadway, New York, NY 10002",
+			"rate": 3,
+			"category": {
+				"meat":{
+				  "shawerma":{"rate":5,"Price":30}, 
+				  "sogo":{"rate":5,"Price":30}, 
+				  "burger":{"rate":5,"Price":30}},
+				  
+				"sandwiches":{
+				  "potatos":{"rate":5,"Price":30}, 
+				  "crep":{"rate":5,"Price":30}},
+				  
+				"fish":{
+				  "polty":{"rate":5,"Price":30}, 
+				  "singary":{"rate":5,"Price":30}},
+				  
+				"Pastries":{
+				  "pizza":{"rate":5,"Price":30}}
+			}
+		},
+		{
+			"id": 3,
+			"name": "kintake",
+			"img": "https://i1.sndcdn.com/artworks-000131674761-yo8esz-t500x500.jpg",
+			"location": "171 E Broadway, New York, NY 10002",
+			"rate": 5,
+			"category": {
+				"meat":{
+				  "shawerma":{"rate":5,"Price":30}, 
+				  "sogo":{"rate":5,"Price":30}, 
+				  "burger":{"rate":5,"Price":30}},
+				  
+				"sandwiches":{
+				  "potatos":{"rate":5,"Price":30}, 
+				  "crep":{"rate":5,"Price":30}},
+				  
+				"fish":{
+				  "polty":{"rate":5,"Price":30}, 
+				  "singary":{"rate":5,"Price":30}},
+				  
+				"Pastries":{
+				  "pizza":{"rate":5,"Price":30}}
+			}
+		}
+	]
+}
